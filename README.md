@@ -1,2 +1,3 @@
 # How-to-run-Micro-Lua-on-DeSmuME
-rahhh ez tutrial KYS
+
+![VERYCOOL](https://cdn.discordapp.com/attachments/1059666289896980592/1076044591586881536/image.png "GAY!")
